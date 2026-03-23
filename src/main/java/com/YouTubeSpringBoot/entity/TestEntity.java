@@ -12,4 +12,5 @@ public class TestEntity {
     @Column(length=20,nullable = false)
     private String name;
 
+    private Integer age;
 }
